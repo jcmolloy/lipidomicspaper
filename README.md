@@ -1,4 +1,4 @@
-# Wolbachia modulates lipid metabolism in Aedes albopictus mosquito cells
+## Wolbachia modulates lipid metabolism in Aedes albopictus mosquito cells
 
 Files and R code for plots in 
 
